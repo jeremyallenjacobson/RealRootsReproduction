@@ -4,5 +4,6 @@ In the .ipynb notebook file in this repository, Google's ML workbench is used to
 http://slides.com/jeremyjacobson/deep-learning
 
 # Running the notebook
-If you want to run the code in the notebook here, you must open it using Google's Datalab as it uses <code>import google.datalab.contrib.mlworkbench.commands</code> Here is a direct link to reading about Datalab
+If you want to run the code in the notebook here, you must open it using Google's Datalab as it uses <code>import google.datalab.contrib.mlworkbench.commands</code> Here is a direct link for more about Datalab
+
 https://cloud.google.com/datalab/docs/quickstart
